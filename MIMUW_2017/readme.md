@@ -1,7 +1,7 @@
 Programowanie w R i wizualizacja danych
 ---------------------------------------
 
-Schedule MIM UW:
+Plan spotkań MIM UW:
 ----------------
 
 * 6 X - 
@@ -21,7 +21,7 @@ Schedule MIM UW:
 * 26 I - [Projekt]
 
 
-Project:
+Projekt:
 --------
 
 Jeden projekt z 2+2+2 fazami z rotującymi grupami [programowanie, symulacja strategii, wizualizacja].
