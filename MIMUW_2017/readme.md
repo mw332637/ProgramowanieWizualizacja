@@ -4,7 +4,7 @@ Programowanie w R i wizualizacja danych
 Plan spotkań MIM UW:
 ----------------
 
-* 6 X - Wprowadzenie do R, RStudio i knitr, [proton](http://smarterpoland.pl/index.php/2015/11/czy-jestes-hakerem-danych/), [przetwarzanie](https://pbiecek.gitbooks.io/przewodnik/content/Programowanie/czyscic_przetwarzac.html)
+* 6 X - Wprowadzenie do R, RStudio i knitr, [Wprowadzenie](http://pbiecek.github.io/Przewodnik/wprowadzenie.html), [Proton](http://smarterpoland.pl/index.php/2015/11/czy-jestes-hakerem-danych/), [Przetwarzanie](https://pbiecek.gitbooks.io/przewodnik/content/Programowanie/czyscic_przetwarzac.html)
 * 13 X - Instrukcje sterujące, pętle, funkcje
 * 20 X - [Projekt 1/1]; Funkcje ++, listy i przetwarzanie potokowe
 * 27 X - Budowa pakietu
