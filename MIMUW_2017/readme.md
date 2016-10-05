@@ -1,6 +1,12 @@
 Programowanie w R i wizualizacja danych
 ---------------------------------------
 
+Ankieta na start
+https://goo.gl/forms/Dlz9HaV9DqrWLcds1
+
+Materialy na start
+Pogromcy Danych: http://pogromcydanych.icm.edu.pl
+
 Plan spotkań MIM UW:
 ----------------
 
