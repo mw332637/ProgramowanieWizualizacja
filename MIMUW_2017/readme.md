@@ -36,3 +36,17 @@ Symulacja i wizualizacja efektywności strategii w grze SuperFarmer.
 
 Instrukcja http://niewidzeprzeszkodzabrze.pl/wp-content/uploads/2016/02/SUPERFARMER.pdf
 Instrukcja oraz podstawowa analiza matematyczna: http://www.rost.com.pl/Gry/Farmer.htm
+
+Faza 1:
+
+W ramach tej fazy należy (zakładamy, że gra jeden gracz):
+
+1. Wymyślić strategię gry w SuperFarmera, która będzie dalej analizowana.
+2. Zapisać strategię na zasadzie regułowej: jakie akcje mają być wykonane na początku rundy przy zadanym stanie stada (czy kupić psa, czy zamienić zwierzęta itp).
+3. Zbudować system do symulowania rzutów kostką, oraz do wyznaczania efektu rzutów kostką na stan stada.
+4. Należy przygotować system, który przeprowadzi całą grę, będzie symulował rzuty kostką i reakcje gracza tak długo, aż uda się zdobyć po jednym zwierzaku każdego rodzaju.
+5. Należy powtórzyć ww. symulacje wielokrotnie (10 000 razy) tak by oszacować jak wygląda rozkład czasu gry przy określonej strategii.
+6. Cały ww. kod, wraz z komentarzami dotyczącymi jego funkcjonowania, oraz wraz z przykładami wyników, należy umieścić w skrypcie knitrowym. Na zajęciach prezentowany będzie skompilowany do html'a skrypt knitrowy.
+
+
+
