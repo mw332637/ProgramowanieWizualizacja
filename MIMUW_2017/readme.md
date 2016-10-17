@@ -48,7 +48,7 @@ W ramach tej fazy należy (zakładamy, że gra jeden gracz):
 5. Należy powtórzyć ww. symulacje wielokrotnie (10 000 razy) tak by oszacować jak wygląda rozkład czasu gry przy określonej strategii.
 6. Cały ww. kod, wraz z komentarzami dotyczącymi jego funkcjonowania, oraz wraz z przykładami wyników, należy umieścić w skrypcie knitrowym. Na zajęciach prezentowany będzie skompilowany do html'a skrypt knitrowy.
 
-Wynikiem pierwszej fazy jest opisana słownie oraz zaimplementowana strategia gry w SuperFarmera, wraz z wynikami symulacji długości gry jednego gracza stosującego ww strategię.
+Wynikiem pierwszej fazy jest opisana słownie oraz zaimplementowana strategia gry w SuperFarmera, wraz z wynikami symulacji długości gry jednego gracza stosującego ww. strategię.
 
 
 
